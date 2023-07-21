@@ -1,17 +1,18 @@
 {
-    "name": "Example Mod",
+    "name": "Slimey Cuddles",
     "description": "An example mod that adds an event with Perpetua to the Mountain, and the {color=#D94F70}Perpetua {b}fetish{/b}{/color}!\n\nSee Help tab above for tips on finding, installing, and making mods.",
     "testedFor": 25.2,
-    "version": 34.69,
+    "version": 1.0,
     "tags" : [
-        "+Perpetua Fetish",
-        "+1 Event"
+        "+Cuddle Fetish",
+        "+1 Character",
+        "+1 Adventure (Planned)"
     ],
     "credits": "{b}Art{/b}\nPerpetua portrait by {a=https://www.jfcsxf.com/comm_info.html}Jiffic{/a}\n{b}Music{/b}\n'Chilled - Desert Winds' by {a=https://www.purple-planet.com/}Purple Planet{/a}",
     "authors": [
         "Threshold",
-        "Noeru#0001"
+        "NovaCrypt"
     ],
     "urlLabel": "Wiki Page",
-    "url": "https://monstergirldreams.miraheze.org/wiki/Category:List_Of_Mods"
+    "url": "https://github.com/NovaCrypt/SlimeyCuddles_MGD-Mod/wiki"
 }
