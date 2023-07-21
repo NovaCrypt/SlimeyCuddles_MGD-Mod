@@ -1,10 +1,10 @@
 {
-    "name": "Stella",
-    "IDname": "Stella",
-    "species": "Aberrant",
+    "name": "Sly",
+    "IDname": "Sly",
+    "species": "Slime",
     "gender": "female",
-    "description": "Bag mimic card so she doesnt get the wrong dang name.- Wait, she has art now. uh... you have the art on, right?",
-    "encyclopedia": "",
+    "description": "A cheerful, slightly translucent gooey blue girl with long slimy hair and rather average looking curves despite her malleable nature. A small red core floats in her torso, gently drifting around every time she moves. Her long legs end in a small, blobby puddle where her feet would be.",
+    "encyclopedia": "These generally peaceful monster girls are entirely made of blue goo, and subsist primarily on fruit and water for sustenance. They are not very bright, so it is not very hard to trick or deceive them.\n\nCare must be taken around them, however, because despite their benign tastes, their favorite kind of food is sexual juices of any kind, and they have been known to wring out as much as they can from any humans they catch.\n\nIf conflict is unavoidable, use of pain or brute force is not advised, as their bodies make them all but immune to those types of attacks.",
     "tags": "none",
     "generic": "False",
     "requires": [ ""],
@@ -98,7 +98,7 @@
                       "Images": [
                         {
                             "Name": "Bag",
-                            "File": "Monsters/Stella/BagStellas.png",
+                            "File": "Monsters/Sly/BagSlys.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         }
@@ -121,7 +121,7 @@
                     "Images": [
                       {
                           "Name": "Bag",
-                          "File": "Monsters/Stella/Stella_PokingOutOfBag_Base.png",
+                          "File": "Monsters/Sly/Sly_PokingOutOfBag_Base.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       }
@@ -139,13 +139,13 @@
                     "Images": [
                       {
                           "Name": "Blush",
-                          "File": "Monsters/Stella/Stella_PokingOutOfBag_Blush.png",
+                          "File": "Monsters/Sly/Sly_PokingOutOfBag_Blush.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "BlushHeavy",
-                          "File": "Monsters/Stella/Stella_PokingOutOfBag_BlushHeavy.png",
+                          "File": "Monsters/Sly/Sly_PokingOutOfBag_BlushHeavy.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       }
@@ -163,79 +163,79 @@
                       "Images": [
                         {
                             "Name": "Smile",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_SmileClosed.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_SmileClosed.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         },
                         {
                             "Name": "Excited",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_Excited.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_Excited.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         },
                         {
                             "Name": "Kiss",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_Kiss.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_Kiss.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         },
                         {
                             "Name": "KissSmug",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_KissSmug.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_KissSmug.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         },
                         {
                             "Name": "LipLick",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_LipLick.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_LipLick.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         },
                         {
                             "Name": "LipLickHungry",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_LipLickHungry.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_LipLickHungry.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         },
                         {
                             "Name": "Oral",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_Oral.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_Oral.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         },
                         {
                             "Name": "OralSmug",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_OralSmug.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_OralSmug.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         },
                         {
                             "Name": "PoutSexy",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_PoutSexy.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_PoutSexy.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         },
                         {
                             "Name": "Seductive",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_Seductive.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_Seductive.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         },
                         {
                             "Name": "SmileOpenMouth",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_SmileOpen.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_SmileOpen.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         },
                         {
                             "Name": "Smug",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_SmugSly.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_SmugSly.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         },
                         {
                             "Name": "Surprised",
-                            "File": "Monsters/Stella/Stella_PokingOutOfBag_Expression_Surprised.png",
+                            "File": "Monsters/Sly/Sly_PokingOutOfBag_Expression_Surprised.png",
                             "setXalign": "0.0",
                             "setYalign": "0.0"
                         }
@@ -258,7 +258,7 @@
                         "Images": [
                           {
                               "Name": "Backing",
-                              "File": "Monsters/Stella/Stella_VeiwportBag_Backing.png",
+                              "File": "Monsters/Sly/Sly_VeiwportBag_Backing.png",
                               "setXalign": "0.0",
                               "setYalign": "0.0"
                           }
@@ -276,7 +276,7 @@
                         "Images": [
                           {
                               "Name": "Head",
-                              "File": "Monsters/Stella/Stella_VeiwportBag_Head.png",
+                              "File": "Monsters/Sly/Sly_VeiwportBag_Head.png",
                               "setXalign": "0.0",
                               "setYalign": "0.0"
                           }
@@ -294,13 +294,13 @@
                         "Images": [
                           {
                               "Name": "Blush",
-                              "File": "Monsters/Stella/Stella_VeiwportBag_Head_Blush.png",
+                              "File": "Monsters/Sly/Sly_VeiwportBag_Head_Blush.png",
                               "setXalign": "0.0",
                               "setYalign": "0.0"
                           },
                           {
                               "Name": "BlushHeavy",
-                              "File": "Monsters/Stella/Stella_VeiwportBag_Head_BlushHeavy.png",
+                              "File": "Monsters/Sly/Sly_VeiwportBag_Head_BlushHeavy.png",
                               "setXalign": "0.0",
                               "setYalign": "0.0"
                           }
@@ -318,79 +318,79 @@
                           "Images": [
                             {
                                 "Name": "Smile",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_SmileClosed.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_SmileClosed.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "Excited",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_Excited.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_Excited.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "Kiss",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_Kiss.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_Kiss.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "KissSmug",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_KissSmug.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_KissSmug.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "LipLick",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_LipLick.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_LipLick.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "LipLickHungry",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_LipLickHungry.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_LipLickHungry.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "Oral",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_Oral.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_Oral.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "OralSmug",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_OralSmug.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_OralSmug.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "PoutSexy",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_PoutSexy.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_PoutSexy.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "Seductive",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_Seductive.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_Seductive.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "SmileOpenMouth",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_SmileOpen.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_SmileOpen.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "Smug",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_Smug.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_Smug.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "Surprised",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Expression_Surprised.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Expression_Surprised.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             }
@@ -408,7 +408,7 @@
                             "Images": [
                               {
                                   "Name": "Lid",
-                                  "File": "Monsters/Stella/Stella_VeiwportBag_Bag.png",
+                                  "File": "Monsters/Sly/Sly_VeiwportBag_Bag.png",
                                   "setXalign": "0.0",
                                   "setYalign": "0.0"
                               }
@@ -431,7 +431,7 @@
                             "Images": [
                               {
                                   "Name": "Backing",
-                                  "File": "Monsters/Stella/Stella_VeiwportBag_Backing.png",
+                                  "File": "Monsters/Sly/Sly_VeiwportBag_Backing.png",
                                   "setXalign": "0.0",
                                   "setYalign": "0.0"
                               }
@@ -449,7 +449,7 @@
                             "Images": [
                               {
                                   "Name": "Head",
-                                  "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose.png",
+                                  "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose.png",
                                   "setXalign": "0.0",
                                   "setYalign": "0.0"
                               }
@@ -467,13 +467,13 @@
                             "Images": [
                               {
                                   "Name": "Blush",
-                                  "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Blush.png",
+                                  "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Blush.png",
                                   "setXalign": "0.0",
                                   "setYalign": "0.0"
                               },
                               {
                                   "Name": "BlushHeavy",
-                                  "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_BlushHeavy.png",
+                                  "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_BlushHeavy.png",
                                   "setXalign": "0.0",
                                   "setYalign": "0.0"
                               }
@@ -491,79 +491,79 @@
                               "Images": [
                                 {
                                     "Name": "Smile",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_Smile.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_Smile.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 },
                                 {
                                     "Name": "Excited",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_LipLick.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_LipLick.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 },
                                 {
                                     "Name": "Kiss",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_Kiss.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_Kiss.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 },
                                 {
                                     "Name": "KissSmug",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_KissSmug.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_KissSmug.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 },
                                 {
                                     "Name": "LipLick",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_LipLick.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_LipLick.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 },
                                 {
                                     "Name": "LipLickHungry",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_LipLickHungry.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_LipLickHungry.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 },
                                 {
                                     "Name": "Oral",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_Oral.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_Oral.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 },
                                 {
                                     "Name": "OralSmug",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_OralSmug.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_OralSmug.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 },
                                 {
                                     "Name": "PoutSexy",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_PoutSexy.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_PoutSexy.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 },
                                 {
                                     "Name": "Seductive",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_Seductive.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_Seductive.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 },
                                 {
                                     "Name": "SmileOpenMouth",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_Smile.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_Smile.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 },
                                 {
                                     "Name": "Smug",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_Smug.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_Smug.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 },
                                 {
                                     "Name": "Surprised",
-                                    "File": "Monsters/Stella/Stella_VeiwportBag_HeadOralClose_Expression_PoutSexy.png",
+                                    "File": "Monsters/Sly/Sly_VeiwportBag_HeadOralClose_Expression_PoutSexy.png",
                                     "setXalign": "0.0",
                                     "setYalign": "0.0"
                                 }
@@ -581,7 +581,7 @@
                                 "Images": [
                                   {
                                       "Name": "Lid",
-                                      "File": "Monsters/Stella/Stella_VeiwportBag_Bag.png",
+                                      "File": "Monsters/Sly/Sly_VeiwportBag_Bag.png",
                                       "setXalign": "0.0",
                                       "setYalign": "0.0"
                                   }
@@ -604,7 +604,7 @@
                         "Images": [
                           {
                               "Name": "Backing",
-                              "File": "Monsters/Stella/Stella_VeiwportBag_Backing.png",
+                              "File": "Monsters/Sly/Sly_VeiwportBag_Backing.png",
                               "setXalign": "0.0",
                               "setYalign": "0.0"
                           }
@@ -622,25 +622,25 @@
                           "Images": [
                             {
                                 "Name": "SingleEye",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_EyeCloseUp.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_EyeCloseUp.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "Boobs",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Breasts.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Breasts.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "Hip",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Hip.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Hip.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             },
                             {
                                 "Name": "Pussy",
-                                "File": "Monsters/Stella/Stella_VeiwportBag_Pussy.png",
+                                "File": "Monsters/Sly/Sly_VeiwportBag_Pussy.png",
                                 "setXalign": "0.0",
                                 "setYalign": "0.0"
                             }
@@ -658,7 +658,7 @@
                             "Images": [
                               {
                                   "Name": "Lid",
-                                  "File": "Monsters/Stella/Stella_VeiwportBag_Bag.png",
+                                  "File": "Monsters/Sly/Sly_VeiwportBag_Bag.png",
                                   "setXalign": "0.0",
                                   "setYalign": "0.0"
                               }
@@ -682,7 +682,7 @@
                     "Images": [
                       {
                           "Name": "Base",
-                          "File": "Monsters/Stella/Stella_Body.png",
+                          "File": "Monsters/Sly/Sly_Body.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       }
@@ -700,13 +700,13 @@
                     "Images": [
                       {
                           "Name": "Blush",
-                          "File": "Monsters/Stella/Stella_Body_Face_Blush.png",
+                          "File": "Monsters/Sly/Sly_Body_Face_Blush.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "BlushHeavy",
-                          "File": "Monsters/Stella/Stella_Body_Face_BlushHeavy.png",
+                          "File": "Monsters/Sly/Sly_Body_Face_BlushHeavy.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       }
@@ -724,79 +724,79 @@
                     "Images": [
                       {
                           "Name": "Smile",
-                          "File": "Monsters/Stella/Stella_Body_Expression_SmileClosed.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_SmileClosed.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "Excited",
-                          "File": "Monsters/Stella/Stella_Body_Expression_Excited.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_Excited.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "Kiss",
-                          "File": "Monsters/Stella/Stella_Body_Expression_Kiss.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_Kiss.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "KissSmug",
-                          "File": "Monsters/Stella/Stella_Body_Expression_KissSmug.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_KissSmug.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "LipLick",
-                          "File": "Monsters/Stella/Stella_Body_Expression_LipLick.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_LipLick.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "LipLickHungry",
-                          "File": "Monsters/Stella/Stella_Body_Expression_LipLickHungry.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_LipLickHungry.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "Oral",
-                          "File": "Monsters/Stella/Stella_Body_Expression_Oral.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_Oral.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "OralSmug",
-                          "File": "Monsters/Stella/Stella_Body_Expression_OralSmug.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_OralSmug.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "PoutSexy",
-                          "File": "Monsters/Stella/Stella_Body_Expression_PoutSexy.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_PoutSexy.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "Seductive",
-                          "File": "Monsters/Stella/Stella_Body_Expression_Seductive.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_Seductive.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "SmileOpenMouth",
-                          "File": "Monsters/Stella/Stella_Body_Expression_SmileOpen.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_SmileOpen.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "Smug",
-                          "File": "Monsters/Stella/Stella_Body_Expression_SmugSly.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_SmugSly.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       },
                       {
                           "Name": "Surprised",
-                          "File": "Monsters/Stella/Stella_Body_Expression_Surprised.png",
+                          "File": "Monsters/Sly/Sly_Body_Expression_Surprised.png",
                           "setXalign": "0.0",
                           "setYalign": "0.0"
                       }
